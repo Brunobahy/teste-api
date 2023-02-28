@@ -1,0 +1,351 @@
+[
+    {
+        "id": 1,
+        "nome": "Lógica de programação",
+        "texto": "Comece em lógica com o jogo Pong e JavaScript",
+        "icone": "https://www.alura.com.br/assets/api/cursos/pong-javascript.svg",
+        "link": "https://cursos.alura.com.br/course/pong-javascript",
+        "formacao": "Iniciante em Programação"
+    },
+    {
+        "id": 2,
+        "nome": "Lógica de programação 2",
+        "texto": "Laços e listas com JavaScript",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-listas-lacos.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-listas-lacos",
+        "formacao": "Iniciante em Programação"
+    },
+    {
+        "id": 3,
+        "nome": "Arquitetura de computadores",
+        "texto": "Por trás de como seu programa funciona",
+        "icone": "https://www.alura.com.br/assets/api/cursos/arquitetura-computadores-funcionamento-programa.svg",
+        "link": "https://cursos.alura.com.br/course/arquitetura-computadores-funcionamento-programa",
+        "formacao": "Iniciante em Programação"
+    },
+    {
+        "id": 4,
+        "nome": "Linux I",
+        "texto": "conhecendo e utilizando o terminal",
+        "icone": "https://www.alura.com.br/assets/api/cursos/linux-ubuntu.svg",
+        "link": "https://cursos.alura.com.br/course/linux-ubuntu",
+        "formacao": "Iniciante em Programação"
+    },
+    {
+        "id": 5,
+        "nome": "HTML5 e CSS3 parte 1",
+        "texto": "crie uma página da Web",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-primeiros-passos",
+        "formacao": "Iniciante em Programação"
+    },
+    {
+        "id": 6,
+        "nome": "HTML5 e CSS3 parte 2",
+        "texto": "posicionamento, listas e navegação",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-posicionamento-listas-navegacao.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao",
+        "formacao": "Iniciante em Programação"
+    },
+    {
+        "id": 7,
+        "nome": "HTML5 e CSS3 parte 3",
+        "texto": "trabalhando com formulários e tabelas",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-posicionamento-listas-navegacao.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-formularios-tabelas",
+        "formacao": "Iniciante em Programação"
+    },
+    {
+        "id": 8,
+        "nome": "HTML5 e CSS3 parte 4",
+        "texto": "avançando no CSS",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-avancando-css.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-avancando-css",
+        "formacao": "Iniciante em Programação"
+    },
+    {
+        "id": 9,
+        "nome": "HTML5 e CSS3 parte 1",
+        "texto": "crie uma página da Web",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-primeiros-passos",
+        "formacao": "HTML e CSS"
+    },
+    {
+        "id": 10,
+        "nome": "HTML5 e CSS3 parte 2",
+        "texto": "posicionamento, listas e navegação",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-posicionamento-listas-navegacao.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao",
+        "formacao": "HTML e CSS"
+    },
+    {
+        "id": 11,
+        "nome": "HTML5 e CSS3 parte 3",
+        "texto": "trabalhando com formulários e tabelas",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-posicionamento-listas-navegacao.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-formularios-tabelas",
+        "formacao": "HTML e CSS"
+    },
+    {
+        "id": 12,
+        "nome": "HTML5 e CSS3 parte 4",
+        "texto": "avançando no CSS",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-avancando-css.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-avancando-css",
+        "formacao": "HTML e CSS"
+    },
+    {
+        "id": 13,
+        "nome": "HTML e CSS",
+        "texto": "praticando HTML/CSS",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html-css-praticando-html-css.svg",
+        "link": "https://cursos.alura.com.br/course/html-css-praticando-html-css",
+        "formacao": "HTML e CSS"
+    },
+    {
+        "id": 14,
+        "nome": "CSS",
+        "texto": "dispondo elementos com Flexbox e Grid",
+        "icone": "https://www.alura.com.br/assets/api/cursos/css-dispondo-elementos-flexbox-grid.svg",
+        "link": "https://cursos.alura.com.br/course/css-dispondo-elementos-flexbox-grid",
+        "formacao": "HTML e CSS"
+    },
+    {
+        "id": 15,
+        "nome": "HTML e CSS",
+        "texto": "responsividade com mobile-first",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg",
+        "link": "https://cursos.alura.com.br/course/html-css-responsividade-mobile-first",
+        "formacao": "HTML e CSS"
+    },
+    {
+        "id": 16,
+        "nome": "CSS",
+        "texto": "dispondo elementos com Flexbox e Grid",
+        "icone": "https://www.alura.com.br/assets/api/cursos/css-dispondo-elementos-flexbox-grid.svg",
+        "link": "https://cursos.alura.com.br/course/css-dispondo-elementos-flexbox-grid",
+        "formacao": "HTML e CSS"
+    },
+    {
+        "id": 17,
+        "nome": "HTML5 e CSS3 parte 1",
+        "texto": "crie uma página da Web",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-primeiros-passos",
+        "formacao": "Front-end"
+    },
+    {
+        "id": 18,
+        "nome": "HTML5 e CSS3 parte 2",
+        "texto": "posicionamento, listas e navegação",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-posicionamento-listas-navegacao.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao",
+        "formacao": "Front-end"
+    },
+    {
+        "id": 19,
+        "nome": "HTML5 e CSS3 parte 3",
+        "texto": "trabalhando com formulários e tabelas",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-posicionamento-listas-navegacao.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-formularios-tabelas",
+        "formacao": "Front-end"
+    },
+    {
+        "id": 20,
+        "nome": "HTML5 e CSS3 parte 4",
+        "texto": "avançando no CSS",
+        "icone": "https://www.alura.com.br/assets/api/cursos/html5-css3-avancando-css.svg",
+        "link": "https://cursos.alura.com.br/course/html5-css3-avancando-css",
+        "formacao": "Front-end"
+    },
+    {
+        "id": 21,
+        "nome": "Acessibilidade web parte 1",
+        "texto": "tornando seu front-end inclusivo",
+        "icone": "https://www.alura.com.br/assets/api/cursos/acessibilidade-web-front-end.svg",
+        "link": "https://cursos.alura.com.br/course/acessibilidade-web-front-end",
+        "formacao": "Front-end"
+    },
+    {
+        "id": 22,
+        "nome": "Arquitetura CSS",
+        "texto": "descomplicando os problemas",
+        "icone": "https://www.alura.com.br/assets/api/cursos/arquitetura-css.svg",
+        "link": "https://cursos.alura.com.br/course/arquitetura-css",
+        "formacao": "Front-end"
+    },
+    {
+        "id": 24,
+        "nome": "SEO",
+        "texto": "otimização de sites",
+        "icone": "https://www.alura.com.br/assets/api/cursos/seo-otimizacao-sites.svg",
+        "link": "https://cursos.alura.com.br/course/seo-otimizacao-sites",
+        "formacao": "Front-end"
+    },
+    {
+        "id": 25,
+        "nome": "Flexbox",
+        "texto": "posicione elementos na tela",
+        "icone": "https://www.alura.com.br/assets/api/cursos/posicione-elementos-com-flexbox.svg",
+        "link": "https://cursos.alura.com.br/course/posicione-elementos-com-flexbox",
+        "formacao": "Front-end"
+    },
+    {
+        "id": 26,
+        "nome": "Layouts Responsivos",
+        "texto": "trabalhando com layouts mobile",
+        "icone": "https://www.alura.com.br/assets/api/cursos/mobile-first-layouts-responsivos.svg",
+        "link": "https://cursos.alura.com.br/course/mobile-first-layouts-responsivos",
+        "formacao": "Front-end"
+        
+    },
+    {
+        "id": 27,
+        "nome": "CSS Grid",
+        "texto": "simplificando layouts",
+        "icone": "https://www.alura.com.br/assets/api/cursos/css-grid-layout.svg",
+        "link": "https://cursos.alura.com.br/course/css-grid-layout",
+        "formacao": "Front-end"
+        
+    },
+    {
+        "id": 28,
+        "nome": "JavaScript para Web",
+        "texto": "Crie páginas dinâmicas",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas",
+        "formacao": "Front-end"
+        
+    },
+    {
+        "id": 29,
+        "nome": "Expressões regulares",
+        "texto": "capturando textos de forma mágica",
+        "icone": "https://www.alura.com.br/assets/api/cursos/expressoes-regulares.svg",
+        "link": "https://cursos.alura.com.br/course/expressoes-regulares",
+        "formacao": "Front-end"
+        
+    },
+    {
+        "id": 30,
+        "nome": "JavaScript na Web",
+        "texto": "validação de Formulários e HTML5",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-web-validacao-formularios-html5.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5",
+        "formacao": "Front-end"
+    },
+    {
+        "id": 31,
+        "nome": "JavaScript para Web",
+        "texto": "Crie páginas dinâmicas",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas",
+        "formacao": "Desenvolva aplicações Web com JavaScript"
+    },
+    {
+        "id": 32,
+        "nome": "JavaScript",
+        "texto": "manipulando o DOM",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-manipulando-dom.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-manipulando-dom",
+        "formacao": "Desenvolva aplicações Web com JavaScript"
+    },
+    {
+        "id": 33,
+        "nome": "JavaScript na Web",
+        "texto": "armazenando dados no navegador",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-web-armazenando-dados-navegador.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador",
+        "formacao": "Desenvolva aplicações Web com JavaScript"
+    },
+    {
+        "id": 34,
+        "nome": "JavaScript",
+        "texto": "validações e reconhecimento de voz",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-validacoes-reconhecimento-voz.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-validacoes-reconhecimento-voz",
+        "formacao": "Desenvolva aplicações Web com JavaScript"
+    },
+    {
+        "id": 35,
+        "nome": "JavaScript",
+        "texto": "consumindo e tratando dados de uma API",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-consumindo-tratando-dados-api.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api",
+        "formacao": "Desenvolva aplicações Web com JavaScript"
+    },
+    {
+        "id": 36,
+        "nome": "JavaScript",
+        "texto": "métodos de array",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-metodos-array.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-metodos-array",
+        "formacao": "Desenvolva aplicações Web com JavaScript"
+    },
+    {
+        "id": 37,
+        "nome": "JavaScript",
+        "texto": "criando requisições",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-criando-requisicoes.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-criando-requisicoes",
+        "formacao": "Desenvolva aplicações Web com JavaScript"
+    },
+    {
+        "id": 38,
+        "nome": "JavaScript",
+        "texto": "validando formulários",
+        "icone": "https://www.alura.com.br/assets/api/cursos/javascript-validando-formularios.svg",
+        "link": "https://cursos.alura.com.br/course/javascript-validando-formularios",
+        "formacao": "Desenvolva aplicações Web com JavaScript"
+    },{
+        "id": 39,
+        "nome": "React ",
+        "texto": "Desenvolvendo com JavaScript",
+        "icone": "https://www.alura.com.br/assets/api/cursos/react-desenvolvendo-javascript.svg",
+        "link": "https://cursos.alura.com.br/course/react-desenvolvendo-javascript",
+        "formacao": "React com JavaScript"
+    },{
+        "id": 40,
+        "nome": "React",
+        "texto": "Como os componentes funcionam",
+        "icone": "https://www.alura.com.br/assets/api/cursos/react-componentes-funcionam.svg",
+        "link": "https://cursos.alura.com.br/course/react-componentes-funcionam",
+        "formacao": "React com JavaScript"
+    },{
+        "id": 41,
+        "nome": "React com JavaScript",
+        "texto": "lidando com arquivos estáticos",
+        "icone": "https://www.alura.com.br/assets/api/cursos/react-javascript-arquivos-estaticos.svg",
+        "link": "https://cursos.alura.com.br/course/react-javascript-arquivos-estaticos",
+        "formacao": "React com JavaScript"
+    },{
+        "id": 42,
+        "nome": "React",
+        "texto": "desenvolvendo em React Router com JavaScript",
+        "icone": "https://www.alura.com.br/assets/api/cursos/React-desenvolvendo-react-router-javaScript.svg",
+        "link": "https://cursos.alura.com.br/course/React-desenvolvendo-react-router-javaScript",
+        "formacao": "React com JavaScript"
+    },{
+        "id": 43,
+        "nome": "React",
+        "texto": "gerenciamento de estados globais com ContextAPI",
+        "icone": "https://www.alura.com.br/assets/api/cursos/react-context-estados-globais-contextapi.svg",
+        "link": "https://cursos.alura.com.br/course/react-context-estados-globais-contextapi",
+        "formacao": "React com JavaScript"
+    },{
+        "id": 44,
+        "nome": "React",
+        "texto": "praticando React com Js",
+        "icone": "https://www.alura.com.br/assets/api/cursos/react-praticando-react-js.svg",
+        "link": "https://cursos.alura.com.br/course/react-praticando-react-js",
+        "formacao": "React com JavaScript"
+    },{
+        "id": 45,
+        "nome": "React",
+        "texto": "migrando para TypeScript",
+        "icone": "https://www.alura.com.br/assets/api/cursos/react-migrando-typescript.svg",
+        "link": "https://cursos.alura.com.br/course/react-migrando-typescript",
+        "formacao": "React com JavaScript"
+    }
+]
