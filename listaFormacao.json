@@ -1,0 +1,63 @@
+[
+    {
+        "formacao": "Iniciante em Programação",
+        "apresentacao": "O caminho das pedras para entrar no universo da programação e começar com a criação de sites.",
+        "texto": "Primeira formação realizada, para aprender lógica de programação e desenvolver meu primeiro app, neste curso aprendi um pouco de html e css, e desenvolvi minha primeira página web.",
+        "icone": "css",
+        "link": "Iniciante em Programacao",
+        "logo": "https://www.alura.com.br/assets/api/formacoes/categorias/branco/programacao.svg",
+        "titulo": "Iniciante em Programação",
+        "escola": "Esta formação faz parte da escola de Programação",
+        "tempo": "79h",
+        "cursos": "10",
+        "artigos": "8"
+    },
+    {
+        "formacao": "HTML e CSS",
+        "apresentacao": "Crie páginas incríveis com as tecnologias da Web",
+        "texto": "Formação realizada para aprender mais sobre as tags HTML e onde melhor utilizar elas, também ensinou a sair do básico de CSS, onde aprendi a estilizar melhor os componentes da página, em todas os projetos foram utilizados o GitHub e o Figma.",
+        "icone": "html",
+        "link": "HTML e CSS",
+        "logo": "https://www.alura.com.br/assets/api/formacoes/categorias/branco/front-end.svg",
+        "escola": "Esta formação faz parte da escola Front-end",
+        "tempo": "65h",
+        "cursos": "7",
+        "artigos": "8"
+    },
+    {
+        "formacao": "Front-end",
+        "apresentacao": "Do zero a uma carreira de sucesso no mercado web, com HTML, CSS, JavaScript!",
+        "texto": "Nesta formação aprendi como produzir o front-end inteiro de uma página, desde do HTML, CSS e JavaScript até o CEO  sendo utilizado as tecnologias de HTML, CSS e JavaScript. Aprendi muito sobre javscript o qual utilizei para me aperfeiçoar em React, em todas os projetos foram utilizados o GitHub e o Figma.",
+        "icone": "programacao",
+        "link": "Front-end",
+        "logo": "https://www.alura.com.br/assets/api/formacoes/categorias/branco/front-end.svg",
+        "escola": "Esta formação faz parte da escola Front-end",
+        "tempo": "115h",
+        "cursos": "13",
+        "artigos": "8"
+    },
+    {
+        "formacao": "Desenvolva aplicações Web com JavaScript",
+        "apresentacao": "Do zero a uma carreira de sucesso no mercado web com JavaScript!",
+        "texto": "Formação feita inteiramente para aprender e aperfeiçoar no JavaScript, foi ensinado desde manipular o DOM até validação de formulários e consumos de API externa, a lidar com promises e enviar dados.",
+        "icone": "js",
+        "link": "Desenvolva aplicacoes Web com JavaScript",
+        "logo": "https://www.alura.com.br/assets/api/formacoes/categorias/branco/front-end.svg",
+        "escola": "Esta formação faz parte da escola Front-end",
+        "tempo": "60h",
+        "cursos": "8",
+        "artigos": "3"
+    },
+    {
+        "formacao": "React com JavaScript",
+        "apresentacao": "Aprenda a biblioteca mais usada pelas pessoas front-enders com a linguagem de programação mais utilizada também",
+        "texto": "Formação feita inteiramente com React, todos os projetos foram feitos utilizando Figma e GitHub. Nesta formação foi ensinado a utilizar os hooks, a criar hooks personalizados e context, a consumir API's com ReactJs e a utilizar o React-Router-Dom para criar aplicações SPA.",
+        "icone": "react",
+        "link": "React com JavaScript",
+        "logo": "https://www.alura.com.br/assets/api/formacoes/categorias/branco/front-end.svg",
+        "escola": "Esta formação faz parte da escola Front-end",
+        "tempo": "65h",
+        "cursos": "7",
+        "artigos": "1"
+    }
+]
