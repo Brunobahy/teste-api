@@ -1,4 +1,4 @@
-[
+{ "formacoes": [
     {
         "formacao": "Iniciante em Programação",
         "apresentacao": "O caminho das pedras para entrar no universo da programação e começar com a criação de sites.",
@@ -61,3 +61,4 @@
         "artigos": "1"
     }
 ]
+}
